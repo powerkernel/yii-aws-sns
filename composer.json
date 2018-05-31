@@ -1,0 +1,22 @@
+{
+    "name": "powerkernel/yii-aws-sns",
+    "description": "Amazon Simple Notification Service for Yii",
+    "type": "yii2-extension",
+    "keywords": ["yii","aws","sns"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Harry Tang",
+            "email": "harry@powerkernel.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "aws/aws-sdk-php": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "powerkernel\\sns\\": "src"
+        }
+    }
+}
