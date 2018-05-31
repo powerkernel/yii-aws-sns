@@ -1,6 +1,10 @@
 # yii-aws-sns
 Amazon Simple Notification Service for Yii 2.1
 
+[![Latest Stable Version](https://img.shields.io/packagist/v/powerkernel/yii-aws-sns.svg)](https://packagist.org/packages/powerkernel/yii-aws-sns)
+[![Total Downloads](https://img.shields.io/packagist/dt/powerkernel/yii-aws-sns.svg)](https://packagist.org/packages/powerkernel/yii-aws-sns)
+[![Build Status](https://travis-ci.org/powerkernel/yii-aws-sns.svg?branch=master)](https://travis-ci.org/powerkernel/yii-aws-sns)
+
 Installation
 ------------
 
