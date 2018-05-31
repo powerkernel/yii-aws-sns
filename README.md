@@ -41,7 +41,7 @@ To use this extension, simply add the following code in your application configu
 ```
 You can then call AWS SNS functions as follows:
 ```
-Yii::$app->sns->publish([$arg[]]);
+Yii::$app->sns->client->publish($arg);
 // ...
 ```
 For further instructions refer to the [AWS Documentation page](https://aws.amazon.com/sns/)
