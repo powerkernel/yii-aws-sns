@@ -12,6 +12,10 @@ use Aws\Sns\Exception\SnsException;
 use Aws\Sns\SnsClient;
 use yii\base\InvalidConfigException;
 
+/**
+ * Class AwsSns
+ * @package powerkernel\sns
+ */
 class AwsSns extends \yii\base\Component
 {
     public $key;
