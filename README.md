@@ -1,5 +1,5 @@
 # yii-aws-sns
-Amazon Simple Notification Service for Yii 2.1
+Amazon Simple Notification Service for Yii 3.0
 
 [![Latest Stable Version](https://img.shields.io/github/release/powerkernel/yii-aws-sns.svg)](https://github.com/powerkernel/yii-aws-sns/releases)
 [![Total Downloads](https://img.shields.io/packagist/dt/powerkernel/yii-aws-sns.svg)](https://packagist.org/packages/powerkernel/yii-aws-sns)
@@ -14,7 +14,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require powerkernel/yii-aws-sns "*"
+composer require powerkernel/yii-aws-sns "*"
 ```
 
 or add
