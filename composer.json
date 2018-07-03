@@ -3,7 +3,7 @@
     "description": "Amazon Simple Notification Service for Yii",
     "type": "yii-extension",
     "keywords": ["yii","aws","sns"],
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "Harry Tang",
